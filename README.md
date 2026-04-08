@@ -1,4 +1,4 @@
-# Mia's Data Analytics Portfolio
+# Mia's Portfolio
 
 ## 👋 About Me
 
