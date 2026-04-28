@@ -68,4 +68,5 @@ A full end‑to‑end analysis combining regression, decision trees, clustering,
 
 ## 📬 Contact
 - **Email:** mia.sasunic@gmail.com 
-- **GitHub:** DA-mia
+- **GitHub:** [DA-mia/data-analytics-portfolio](https://github.com/DA-mia/data-analytics-portfolio)
+- **LinkedIn:** [linkedin.com/in/mia-sasunic](www.linkedin.com/in/mia-sasunic-a7a4b4406)
