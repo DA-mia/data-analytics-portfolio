@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a data analyst with a background in management consulting, combining analytical thinking with strong business rationale. I enjoy bringing structure and clarity to organisations by generating data‑driven insights that support strategic decision‑making.  
+I'm a business and data analyst with a background in management consulting, combining analytical thinking with strong business rationale. I enjoy bringing structure and clarity to organisations by generating data‑driven insights that support strategic decision‑making.  
 
 I’m particularly interested in exploratory data analysis, predictive modelling, and customer segmentation.  
 My work spans Python, R, SQL, machine learning, and business storytelling.
