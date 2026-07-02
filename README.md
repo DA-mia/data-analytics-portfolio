@@ -46,6 +46,9 @@ A full end‑to‑end analysis combining regression, decision trees, clustering,
 
 ## 🎓 Education
 
+**London School of Economics and Business**:
+- 2026 (ongoing) | Postgraduate Certificate in Data Analytics (Master's level) 
+
 **Vienna University of Economics and Business**:
 - 2013 - 2016 | Master’s in Strategy, Innovation, and Management Control    
 - 2008 - 2013 | Bachelor’s in International Business Administration  
